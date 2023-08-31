@@ -1,0 +1,33 @@
+.div{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+.section{    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 825px;
+    gap: 80px;
+}
+.button{
+    Width: 152px;
+    Height: 45px;
+    color: white;
+    background-color:  #5D1E67;
+    border: none;
+}
+.button:hover{
+    background-color:  #430e4b;
+}
+.p{
+    font-size: 35px;
+    color:  #927AC7;    
+}
+.h1{
+    font-size: 35px;
+    color:  #927AC7;   
+}

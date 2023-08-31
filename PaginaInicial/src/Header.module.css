@@ -1,0 +1,13 @@
+.img{
+    width: 5vw;
+    height: 9vh;
+    margin-left: 18vh;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.texto1{
+    margin-left: 10px;
+}
